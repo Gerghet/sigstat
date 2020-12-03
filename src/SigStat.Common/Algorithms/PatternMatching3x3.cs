@@ -5,7 +5,7 @@ using System.Text;
 namespace SigStat.Common.Algorithms
 {
     /// <summary>
-	/// Test documentation generation with webpage integration
+	/// Test2: documentation generation with webpage integration
     /// Binary 3x3 pattern matcher with rotating option.
     /// </summary>
     public class PatternMatching3x3
