@@ -358,7 +358,7 @@ $(function () {
     }
 
     function loadNavbar() {
-      var navbarPath = 'toc.html';
+      var navbarPath = '../toc.html';
       if (!navbarPath) {
         return;
       }
